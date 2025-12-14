@@ -1,2 +1,2 @@
-this is a sample
-this is another sample
+this is one sample
+this is an another sample
